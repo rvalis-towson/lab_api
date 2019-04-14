@@ -1,0 +1,24 @@
+{
+    "people": [
+        {
+            "first_name": "Bill",
+            "last_name": "Gates",
+            "icon_url": "https://picsum.photos/200/200?image=100"
+        },
+        {
+            "first_name": "Steve",
+            "last_age": "Jobs",
+            "icon_url": "https://picsum.photos/200/200?image=101"
+        },
+        {
+            "first_name": "Linus",
+            "last_age": "Torvalds",
+            "icon_url": "https://picsum.photos/200/200?image=102"
+        },
+        {
+            "first_name": "Mark",
+            "last_age": "Zuckerberg",
+            "icon_url": "https://picsum.photos/200/200?image=102"
+        }
+    ]
+}
