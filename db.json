@@ -3,22 +3,22 @@
         {
             "first_name": "Bill",
             "last_name": "Gates",
-            "icon_url": "https://picsum.photos/200/200?image=100"
+            "icon_url": "https://picsum.photos/400/400?image=100"
         },
         {
             "first_name": "Steve",
             "last_name": "Jobs",
-            "icon_url": "https://picsum.photos/200/200?image=101"
+            "icon_url": "https://picsum.photos/400/400?image=101"
         },
         {
             "first_name": "Linus",
             "last_name": "Torvalds",
-            "icon_url": "https://picsum.photos/200/200?image=102"
+            "icon_url": "https://picsum.photos/400/400?image=102"
         },
         {
             "first_name": "Mark",
             "last_name": "Zuckerberg",
-            "icon_url": "https://picsum.photos/200/200?image=103"
+            "icon_url": "https://picsum.photos/400/400?image=103"
         }
     ]
 }
