@@ -7,17 +7,17 @@
         },
         {
             "first_name": "Steve",
-            "last_age": "Jobs",
+            "last_name": "Jobs",
             "icon_url": "https://picsum.photos/200/200?image=101"
         },
         {
             "first_name": "Linus",
-            "last_age": "Torvalds",
+            "last_name": "Torvalds",
             "icon_url": "https://picsum.photos/200/200?image=102"
         },
         {
             "first_name": "Mark",
-            "last_age": "Zuckerberg",
+            "last_name": "Zuckerberg",
             "icon_url": "https://picsum.photos/200/200?image=103"
         }
     ]
