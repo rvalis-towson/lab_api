@@ -6,7 +6,7 @@
             "name": "Song 1",
             "artist": "Artist 1",
             "track_num": 2,
-            "is_awesome": true
+            "is_awesome": true,
             "icon_url": "https://picsum.photos/400/400?image=100"
         },
         {
@@ -14,7 +14,7 @@
             "name": "Song 2",
             "artist": "Artist 1",
             "track_num": 1,
-            "is_awesome": false
+            "is_awesome": false,
             "icon_url": "https://picsum.photos/400/400?image=101"
         },
         {
@@ -22,7 +22,7 @@
             "name": "Song 3",
             "artist": "Artist 1",
             "track_num": 4,
-            "is_awesome": false
+            "is_awesome": false,
             "icon_url": "https://picsum.photos/400/400?image=102"
         },
         {
@@ -30,7 +30,7 @@
             "name": "Song 4",
             "artist": "Artist 2",
             "track_num": 1,
-            "is_awesome": false
+            "is_awesome": false,
             "icon_url": "https://picsum.photos/400/400?image=103"
         },
         {
@@ -38,7 +38,7 @@
             "name": "Song 1",
             "artist": "Artist 3",
             "track_num": 12,
-            "is_awesome": true
+            "is_awesome": true,
             "icon_url": "https://picsum.photos/400/400?image=104"
         }
     ]
