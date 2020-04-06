@@ -1,24 +1,45 @@
 {
-    "people": [
+    "totalSongCount": 5,
+    "songs": [
         {
-            "first_name": "Bill",
-            "last_name": "Gates",
+            "id": "aec623a2-a98f-405f-bb44-7723f03146f3",
+            "name": "Song 1",
+            "artist": "Artist 1",
+            "track_num": 2,
+            "is_awesome": true
             "icon_url": "https://picsum.photos/400/400?image=100"
         },
         {
-            "first_name": "Steve",
-            "last_name": "Jobs",
+            "id": "d5704cab-465e-41cf-bc69-a2268114c467",
+            "name": "Song 2",
+            "artist": "Artist 1",
+            "track_num": 1,
+            "is_awesome": false
             "icon_url": "https://picsum.photos/400/400?image=101"
         },
         {
-            "first_name": "Linus",
-            "last_name": "Torvalds",
+            "id": "6e279567-137d-4828-995b-73b61e052e6a",
+            "name": "Song 3",
+            "artist": "Artist 1",
+            "track_num": 4,
+            "is_awesome": false
             "icon_url": "https://picsum.photos/400/400?image=102"
         },
         {
-            "first_name": "Mark",
-            "last_name": "Zuckerberg",
+            "id": "ee5ff241-d5cc-4339-858a-25766b8dc734",
+            "name": "Song 4",
+            "artist": "Artist 2",
+            "track_num": 1,
+            "is_awesome": false
             "icon_url": "https://picsum.photos/400/400?image=103"
+        },
+        {
+            "id": "22948bef-6240-42f5-8844-596f9bdc97fc",
+            "name": "Song 1",
+            "artist": "Artist 3",
+            "track_num": 12,
+            "is_awesome": true
+            "icon_url": "https://picsum.photos/400/400?image=104"
         }
     ]
 }
